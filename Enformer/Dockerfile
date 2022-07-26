@@ -1,4 +1,3 @@
-# ARG BASE_CONTAINER=jupyter/datascience-notebook:latest
 ARG BASE_CONTAINER=tensorflow/tensorflow:latest-gpu-jupyter 
 FROM $BASE_CONTAINER
 # USER root
