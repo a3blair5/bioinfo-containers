@@ -1,1 +1,1 @@
-# genomic-containers
+# bioinfo-containers
