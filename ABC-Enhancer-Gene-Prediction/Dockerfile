@@ -42,5 +42,5 @@ RUN git clone https://github.com/broadinstitute/ABC-Enhancer-Gene-Prediction.git
 RUN conda env create -f ABC-Enhancer-Gene-Prediction/macs.yml
 RUN conda env create -f ABC-Enhancer-Gene-Prediction/abcenv.yml
 
-#RUN git clone https://github.com/aidenlab/juicer.git
+RUN git clone https://github.com/aidenlab/juicer.git
 
